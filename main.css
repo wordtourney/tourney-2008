@@ -1,3 +1,7 @@
+.body {
+    position: relative;
+}
+
 .banner {
     background-color: #ff5555;
     padding: 0px;
