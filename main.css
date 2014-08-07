@@ -35,54 +35,10 @@
   font-weight: 300;
 }
 
-.jumbotron {
-  background-image:url('http://goo.gl/zYf9Az');
-  height: 480px;
-}
-
-.jumbotron .container {
-  position: relative;
-  top:100px;
-}
-
-.jumbotron h1 {
-  color: #000;
-  font-size: 48px;  
-  font-family: 'Shift', sans-serif;
-  font-weight: bold;
-  padding: 5px;
-  margin-left: 0px;
-  margin-right: 295px;
-}
-
-.jumbotron p{
-    color: #000;
-    font-family: 'Shift', serif;
-    padding-left: 5px;
-    margin-left: 10px;
-    margin-right: 100px;
-}
-
-.jumbotron a{
-    color: #ffffff;
-    background-color: #ff5555;
-    margin-left: 10px;
-    padding: 5px;
-}
-
-.prevChamps p{
-    text-align: center;
-}
-
-.prevChamps row{
-    margin-top: 10px;
-}
-
-.prevTitle h2{
-    text-align: center;
-    background-color: #ff5555;
-    color: #ffffff;
-    font-family: 'Shift', sans-serif;
+.panel-title a {
+    display: block;
+    padding: 10px 15px;
+    margin: -10px -15px;
 }
 
 .bracket {
