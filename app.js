@@ -7,5 +7,3 @@ var main = function() {
 
 
 $(document).ready(main);
-
-$('body').scrollspy({ target: '.spybar' })
