@@ -5,7 +5,7 @@ html {
 
 body {
     /* Margin bottom = footer height */
-    margin-bottom: 100px;
+    margin-bottom: 95px;
 }
 
 .banner {
@@ -78,18 +78,13 @@ body {
     background-color: #000;
 }
 
-#footerBar {
-    height: 2px;
-    background-color: #aaaaaa;
-}
-
 .footer {
     padding-top: 10px;
     position : absolute;
     bottom: 0;
     width: 100%;
     /* Set the fixed height of the footer here */
-    height: 100px;
+    height: 95px;
     background-color: #f5f5f5;
 }
 
