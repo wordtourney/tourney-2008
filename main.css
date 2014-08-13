@@ -96,7 +96,11 @@ body {
 
 
 .selection {
-    background-color: @gray-lighter;
+    background-color: #d3d3d3;
+}
+
+.selection .row .col-md-3{
+    padding: 15px;
 }
 
 .drop-shadow {
